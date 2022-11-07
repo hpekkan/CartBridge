@@ -17,4 +17,7 @@ You must initialize needed database.</br>
 
 Demo:</br>
 
-![an example gif](https://github.com/hpekkan/webappProject/blob/main/exampleGif.gif)
+![an example gif](https://github.com/hpekkan/webappProject/blob/main/exampleGif.gif)</br></br>
+
+Database Schema</br>
+![example erwin table](https://github.com/hpekkan/webappProject/blob/main/example_database.png)
