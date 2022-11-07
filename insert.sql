@@ -1,3 +1,5 @@
+//example insertion
+
 INSERT INTO KULLANICI VALUES ('1','Ata','TURHAN','aturhan@gmail.com','54312369','sogutozu','aturhan','1234',0);
 INSERT INTO KULLANICI VALUES ('2','Huseyin','PEKKAN','hpekkan@gmail.com','54312331','eryaman','hpekkan','4321',1);
 INSERT INTO KART VALUES ('1','1234123412341234','123','yemek');
