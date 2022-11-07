@@ -1,5 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+## Authors
+Hüseyin PEKKAN - AI Engineering - @hpekkan </br>
+Muhammed Ata Turhan AI - Engineering - @fotino21</br>
+Berkay Yıldız Computer - Engineering - @berykay</br>
 ## Getting Started
 
 First, run the development server:
