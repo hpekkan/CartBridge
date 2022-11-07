@@ -12,5 +12,9 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You should start api server: go inside config file and start "nodemon db.js"
-You must initialize needed database.
+You should start api server: go inside config file and start "nodemon db.js"</br>
+You must initialize needed database.</br>
+
+Demo:</br>
+
+![an example gif](https://github.com/hpekkan/webappProject/blob/main/exampleGif.gif)
