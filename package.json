@@ -1,0 +1,40 @@
+{
+  "name": "515",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/core": "^11.0.0",
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.9.3",
+    "axios": "^0.27.2",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "net": "^1.0.2",
+    "next": "^12.2.2",
+    "react": "18.2.0",
+    "react-dom": "^18.2.0",
+    "sequelize": "^6.21.3",
+    "serverless-mysql": "^1.5.4",
+    "tls": "^0.0.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "eslint": "8.19.0",
+    "eslint-config-next": "12.2.2",
+    "nodemon": "^2.0.19"
+  },
+  "browser": {
+    "fs": false,
+    "path": false,
+    "os": false
+  }
+}
