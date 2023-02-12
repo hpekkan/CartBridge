@@ -5,7 +5,7 @@ Hüseyin PEKKAN - AI Engineering - @hpekkan </br>
 Muhammed Ata Turhan AI - Engineering - @fotino21</br>
 Berkay Yıldız Computer - Engineering - @berykay</br>
 ## Getting Started
-It is a project in that you can buy products on different websites but have one basket. In this way, you can use one website to buy from one or many websites. Below is a small demo, or you can use your local to try. </br>
+Browse through your favorite online stores, add items to your CartBridge cart, and pay with the card you've saved in our secure system. Say goodbye to the hassle of managing multiple shopping carts and enjoy the convenience of CartBridge's seamless shopping experience.
 ```bash
 https://github.com/hpekkan/webappProject.git
 ```
