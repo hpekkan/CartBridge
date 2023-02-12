@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Authors
 Hüseyin PEKKAN - AI Engineering - @hpekkan </br>
 Muhammed Ata Turhan AI - Engineering - @fotino21</br>
@@ -26,4 +28,6 @@ Demo:</br>
 ![an example gif](https://github.com/hpekkan/webappProject/blob/main/exampleGif.gif)</br></br>
 
 Database Schema</br>
+
 ![example erwin table](https://github.com/hpekkan/webappProject/blob/main/example_database.png)
+</div>
